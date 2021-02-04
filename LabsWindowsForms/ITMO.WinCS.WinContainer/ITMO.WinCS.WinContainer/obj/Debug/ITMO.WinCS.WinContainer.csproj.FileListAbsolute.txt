@@ -1,0 +1,10 @@
+C:\Users\Евгений\source\repos\ITMO.WinCS.WinContainer\ITMO.WinCS.WinContainer\bin\Debug\ITMO.WinCS.WinContainer.exe.config
+C:\Users\Евгений\source\repos\ITMO.WinCS.WinContainer\ITMO.WinCS.WinContainer\bin\Debug\ITMO.WinCS.WinContainer.exe
+C:\Users\Евгений\source\repos\ITMO.WinCS.WinContainer\ITMO.WinCS.WinContainer\bin\Debug\ITMO.WinCS.WinContainer.pdb
+C:\Users\Евгений\source\repos\ITMO.WinCS.WinContainer\ITMO.WinCS.WinContainer\obj\Debug\ITMO.WinCS.WinContainer.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\ITMO.WinCS.WinContainer\ITMO.WinCS.WinContainer\obj\Debug\ITMO.WinCS.WinContainer.Form1.resources
+C:\Users\Евгений\source\repos\ITMO.WinCS.WinContainer\ITMO.WinCS.WinContainer\obj\Debug\ITMO.WinCS.WinContainer.Properties.Resources.resources
+C:\Users\Евгений\source\repos\ITMO.WinCS.WinContainer\ITMO.WinCS.WinContainer\obj\Debug\ITMO.WinCS.WinContainer.csproj.GenerateResource.cache
+C:\Users\Евгений\source\repos\ITMO.WinCS.WinContainer\ITMO.WinCS.WinContainer\obj\Debug\ITMO.WinCS.WinContainer.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\ITMO.WinCS.WinContainer\ITMO.WinCS.WinContainer\obj\Debug\ITMO.WinCS.WinContainer.exe
+C:\Users\Евгений\source\repos\ITMO.WinCS.WinContainer\ITMO.WinCS.WinContainer\obj\Debug\ITMO.WinCS.WinContainer.pdb

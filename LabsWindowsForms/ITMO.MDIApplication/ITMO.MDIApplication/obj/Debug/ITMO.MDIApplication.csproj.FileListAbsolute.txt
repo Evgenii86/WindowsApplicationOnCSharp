@@ -1,0 +1,5 @@
+C:\Users\Евгений\source\repos\ITMO.MDIApplication\ITMO.MDIApplication\obj\Debug\ITMO.MDIApplication.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\ITMO.MDIApplication\ITMO.MDIApplication\obj\Debug\ITMO.MDIApplication.ParentForm.resources
+C:\Users\Евгений\source\repos\ITMO.MDIApplication\ITMO.MDIApplication\obj\Debug\ITMO.MDIApplication.Properties.Resources.resources
+C:\Users\Евгений\source\repos\ITMO.MDIApplication\ITMO.MDIApplication\obj\Debug\ITMO.MDIApplication.csproj.GenerateResource.cache
+C:\Users\Евгений\source\repos\ITMO.MDIApplication\ITMO.MDIApplication\obj\Debug\ITMO.MDIApplication.csproj.CoreCompileInputs.cache

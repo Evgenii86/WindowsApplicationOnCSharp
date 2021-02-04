@@ -1,0 +1,7 @@
+C:\Users\Евгений\source\repos\ITMO.WindowsFormsControlLibrary1\ITMO.WindowsFormsControlLibrary1\bin\Debug\ITMO.WindowsFormsControlLibrary1.dll
+C:\Users\Евгений\source\repos\ITMO.WindowsFormsControlLibrary1\ITMO.WindowsFormsControlLibrary1\bin\Debug\ITMO.WindowsFormsControlLibrary1.pdb
+C:\Users\Евгений\source\repos\ITMO.WindowsFormsControlLibrary1\ITMO.WindowsFormsControlLibrary1\obj\Debug\ITMO.WindowsFormsControlLibrary1.UserControl1.resources
+C:\Users\Евгений\source\repos\ITMO.WindowsFormsControlLibrary1\ITMO.WindowsFormsControlLibrary1\obj\Debug\ITMO.WindowsFormsControlLibrary1.csproj.GenerateResource.cache
+C:\Users\Евгений\source\repos\ITMO.WindowsFormsControlLibrary1\ITMO.WindowsFormsControlLibrary1\obj\Debug\ITMO.WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\ITMO.WindowsFormsControlLibrary1\ITMO.WindowsFormsControlLibrary1\obj\Debug\ITMO.WindowsFormsControlLibrary1.dll
+C:\Users\Евгений\source\repos\ITMO.WindowsFormsControlLibrary1\ITMO.WindowsFormsControlLibrary1\obj\Debug\ITMO.WindowsFormsControlLibrary1.pdb
