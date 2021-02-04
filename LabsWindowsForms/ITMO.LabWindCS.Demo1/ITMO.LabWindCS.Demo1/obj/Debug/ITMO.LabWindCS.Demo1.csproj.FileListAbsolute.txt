@@ -1,0 +1,10 @@
+C:\Users\Евгений\source\repos\ITMO.LabWindCS.Demo1\ITMO.LabWindCS.Demo1\bin\Debug\ITMO.LabWindCS.Demo1.exe.config
+C:\Users\Евгений\source\repos\ITMO.LabWindCS.Demo1\ITMO.LabWindCS.Demo1\bin\Debug\ITMO.LabWindCS.Demo1.exe
+C:\Users\Евгений\source\repos\ITMO.LabWindCS.Demo1\ITMO.LabWindCS.Demo1\bin\Debug\ITMO.LabWindCS.Demo1.pdb
+C:\Users\Евгений\source\repos\ITMO.LabWindCS.Demo1\ITMO.LabWindCS.Demo1\obj\Debug\ITMO.LabWindCS.Demo1.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\ITMO.LabWindCS.Demo1\ITMO.LabWindCS.Demo1\obj\Debug\ITMO.LabWindCS.Demo1.Form1.resources
+C:\Users\Евгений\source\repos\ITMO.LabWindCS.Demo1\ITMO.LabWindCS.Demo1\obj\Debug\ITMO.LabWindCS.Demo1.Properties.Resources.resources
+C:\Users\Евгений\source\repos\ITMO.LabWindCS.Demo1\ITMO.LabWindCS.Demo1\obj\Debug\ITMO.LabWindCS.Demo1.csproj.GenerateResource.cache
+C:\Users\Евгений\source\repos\ITMO.LabWindCS.Demo1\ITMO.LabWindCS.Demo1\obj\Debug\ITMO.LabWindCS.Demo1.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\ITMO.LabWindCS.Demo1\ITMO.LabWindCS.Demo1\obj\Debug\ITMO.LabWindCS.Demo1.exe
+C:\Users\Евгений\source\repos\ITMO.LabWindCS.Demo1\ITMO.LabWindCS.Demo1\obj\Debug\ITMO.LabWindCS.Demo1.pdb
