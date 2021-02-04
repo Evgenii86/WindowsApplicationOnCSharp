@@ -1,0 +1,11 @@
+C:\Users\Евгений\source\repos\ITMO.LabsWinCSWinTimer2\ITMO.LabsWinCSWinTimer2\bin\Debug\ITMO.LabsWinCSWinTimer2.exe.config
+C:\Users\Евгений\source\repos\ITMO.LabsWinCSWinTimer2\ITMO.LabsWinCSWinTimer2\bin\Debug\ITMO.LabsWinCSWinTimer2.exe
+C:\Users\Евгений\source\repos\ITMO.LabsWinCSWinTimer2\ITMO.LabsWinCSWinTimer2\bin\Debug\ITMO.LabsWinCSWinTimer2.pdb
+C:\Users\Евгений\source\repos\ITMO.LabsWinCSWinTimer2\ITMO.LabsWinCSWinTimer2\obj\Debug\ITMO.LabsWinCSWinTimer2.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\ITMO.LabsWinCSWinTimer2\ITMO.LabsWinCSWinTimer2\obj\Debug\ITMO.LabsWinCSWinTimer2.Properties.Resources.resources
+C:\Users\Евгений\source\repos\ITMO.LabsWinCSWinTimer2\ITMO.LabsWinCSWinTimer2\obj\Debug\ITMO.LabsWinCSWinTimer2.UserControlTimer2.resources
+C:\Users\Евгений\source\repos\ITMO.LabsWinCSWinTimer2\ITMO.LabsWinCSWinTimer2\obj\Debug\ITMO.LabsWinCSWinTimer2.csproj.GenerateResource.cache
+C:\Users\Евгений\source\repos\ITMO.LabsWinCSWinTimer2\ITMO.LabsWinCSWinTimer2\obj\Debug\ITMO.LabsWinCSWinTimer2.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\ITMO.LabsWinCSWinTimer2\ITMO.LabsWinCSWinTimer2\obj\Debug\ITMO.LabsWinCSWinTimer2.exe
+C:\Users\Евгений\source\repos\ITMO.LabsWinCSWinTimer2\ITMO.LabsWinCSWinTimer2\obj\Debug\ITMO.LabsWinCSWinTimer2.pdb
+C:\Users\Евгений\source\repos\ITMO.LabsWinCSWinTimer2\ITMO.LabsWinCSWinTimer2\obj\Debug\ITMO.LabsWinCSWinTimer2.Form1.resources
