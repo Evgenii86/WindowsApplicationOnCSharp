@@ -1,0 +1,15 @@
+C:\Users\Евгений\source\repos\ITMO.WPFCalculator\ITMO.WPFCalculator\obj\Debug\ITMO.WPFCalculator.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\ITMO.WPFCalculator\ITMO.WPFCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Евгений\source\repos\ITMO.WPFCalculator\ITMO.WPFCalculator\obj\Debug\App.g.cs
+C:\Users\Евгений\source\repos\ITMO.WPFCalculator\ITMO.WPFCalculator\obj\Debug\ITMO.WPFCalculator_MarkupCompile.cache
+C:\Users\Евгений\source\repos\ITMO.WPFCalculator\ITMO.WPFCalculator\obj\Debug\ITMO.WPFCalculator_MarkupCompile.lref
+C:\Users\Евгений\source\repos\ITMO.WPFCalculator\ITMO.WPFCalculator\bin\Debug\ITMO.WPFCalculator.exe.config
+C:\Users\Евгений\source\repos\ITMO.WPFCalculator\ITMO.WPFCalculator\bin\Debug\ITMO.WPFCalculator.exe
+C:\Users\Евгений\source\repos\ITMO.WPFCalculator\ITMO.WPFCalculator\bin\Debug\ITMO.WPFCalculator.pdb
+C:\Users\Евгений\source\repos\ITMO.WPFCalculator\ITMO.WPFCalculator\obj\Debug\MainWindow.baml
+C:\Users\Евгений\source\repos\ITMO.WPFCalculator\ITMO.WPFCalculator\obj\Debug\ITMO.WPFCalculator.g.resources
+C:\Users\Евгений\source\repos\ITMO.WPFCalculator\ITMO.WPFCalculator\obj\Debug\ITMO.WPFCalculator.Properties.Resources.resources
+C:\Users\Евгений\source\repos\ITMO.WPFCalculator\ITMO.WPFCalculator\obj\Debug\ITMO.WPFCalculator.csproj.GenerateResource.cache
+C:\Users\Евгений\source\repos\ITMO.WPFCalculator\ITMO.WPFCalculator\obj\Debug\ITMO.WPFCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\ITMO.WPFCalculator\ITMO.WPFCalculator\obj\Debug\ITMO.WPFCalculator.exe
+C:\Users\Евгений\source\repos\ITMO.WPFCalculator\ITMO.WPFCalculator\obj\Debug\ITMO.WPFCalculator.pdb
