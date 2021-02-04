@@ -1,0 +1,10 @@
+C:\Users\Евгений\source\repos\ITMO.LabsWindCS.WinQuestion\ITMO.LabsWindCS.WinQuestion\bin\Debug\ITMO.LabsWindCS.WinQuestion.exe.config
+C:\Users\Евгений\source\repos\ITMO.LabsWindCS.WinQuestion\ITMO.LabsWindCS.WinQuestion\bin\Debug\ITMO.LabsWindCS.WinQuestion.exe
+C:\Users\Евгений\source\repos\ITMO.LabsWindCS.WinQuestion\ITMO.LabsWindCS.WinQuestion\bin\Debug\ITMO.LabsWindCS.WinQuestion.pdb
+C:\Users\Евгений\source\repos\ITMO.LabsWindCS.WinQuestion\ITMO.LabsWindCS.WinQuestion\obj\Debug\ITMO.LabsWindCS.WinQuestion.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\ITMO.LabsWindCS.WinQuestion\ITMO.LabsWindCS.WinQuestion\obj\Debug\ITMO.LabsWindCS.WinQuestion.Form1.resources
+C:\Users\Евгений\source\repos\ITMO.LabsWindCS.WinQuestion\ITMO.LabsWindCS.WinQuestion\obj\Debug\ITMO.LabsWindCS.WinQuestion.Properties.Resources.resources
+C:\Users\Евгений\source\repos\ITMO.LabsWindCS.WinQuestion\ITMO.LabsWindCS.WinQuestion\obj\Debug\ITMO.LabsWindCS.WinQuestion.csproj.GenerateResource.cache
+C:\Users\Евгений\source\repos\ITMO.LabsWindCS.WinQuestion\ITMO.LabsWindCS.WinQuestion\obj\Debug\ITMO.LabsWindCS.WinQuestion.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\ITMO.LabsWindCS.WinQuestion\ITMO.LabsWindCS.WinQuestion\obj\Debug\ITMO.LabsWindCS.WinQuestion.exe
+C:\Users\Евгений\source\repos\ITMO.LabsWindCS.WinQuestion\ITMO.LabsWindCS.WinQuestion\obj\Debug\ITMO.LabsWindCS.WinQuestion.pdb
