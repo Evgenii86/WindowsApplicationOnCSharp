@@ -1,0 +1,9 @@
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.WinButNum\ITMO.LabsWinCS.WinButNum\bin\Debug\ITMO.LabsWinCS.WinButNum.exe.config
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.WinButNum\ITMO.LabsWinCS.WinButNum\bin\Debug\ITMO.LabsWinCS.WinButNum.exe
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.WinButNum\ITMO.LabsWinCS.WinButNum\bin\Debug\ITMO.LabsWinCS.WinButNum.pdb
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.WinButNum\ITMO.LabsWinCS.WinButNum\obj\Debug\ITMO.LabsWinCS.WinButNum.Properties.Resources.resources
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.WinButNum\ITMO.LabsWinCS.WinButNum\obj\Debug\ITMO.LabsWinCS.WinButNum.csproj.GenerateResource.cache
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.WinButNum\ITMO.LabsWinCS.WinButNum\obj\Debug\ITMO.LabsWinCS.WinButNum.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.WinButNum\ITMO.LabsWinCS.WinButNum\obj\Debug\ITMO.LabsWinCS.WinButNum.exe
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.WinButNum\ITMO.LabsWinCS.WinButNum\obj\Debug\ITMO.LabsWinCS.WinButNum.pdb
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.WinButNum\ITMO.LabsWinCS.WinButNum\obj\Debug\ITMO.LabsWinCS.WinButNum.Form1.resources
