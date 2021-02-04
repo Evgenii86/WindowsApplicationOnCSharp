@@ -1,0 +1,11 @@
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.EditPerson\ITMO.LabsWinCS.EditPerson\bin\Debug\ITMO.LabsWinCS.EditPerson.exe.config
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.EditPerson\ITMO.LabsWinCS.EditPerson\bin\Debug\ITMO.LabsWinCS.EditPerson.exe
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.EditPerson\ITMO.LabsWinCS.EditPerson\bin\Debug\ITMO.LabsWinCS.EditPerson.pdb
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.EditPerson\ITMO.LabsWinCS.EditPerson\obj\Debug\ITMO.LabsWinCS.EditPerson.Form1.resources
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.EditPerson\ITMO.LabsWinCS.EditPerson\obj\Debug\ITMO.LabsWinCS.EditPerson.EditPersonForm.resources
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.EditPerson\ITMO.LabsWinCS.EditPerson\obj\Debug\ITMO.LabsWinCS.EditPerson.Properties.Resources.resources
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.EditPerson\ITMO.LabsWinCS.EditPerson\obj\Debug\ITMO.LabsWinCS.EditPerson.csproj.GenerateResource.cache
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.EditPerson\ITMO.LabsWinCS.EditPerson\obj\Debug\ITMO.LabsWinCS.EditPerson.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.EditPerson\ITMO.LabsWinCS.EditPerson\obj\Debug\ITMO.LabsWinCS.EditPerson.exe
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.EditPerson\ITMO.LabsWinCS.EditPerson\obj\Debug\ITMO.LabsWinCS.EditPerson.pdb
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.EditPerson\ITMO.LabsWinCS.EditPerson\obj\Debug\ITMO.LabsWinCS.EditPerson.csprojAssemblyReference.cache
