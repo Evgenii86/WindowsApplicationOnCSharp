@@ -1,0 +1,10 @@
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.RegistrationForm\ITMO.LabsWinCS.RegistrationForm\bin\Debug\ITMO.LabsWinCS.RegistrationForm.exe.config
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.RegistrationForm\ITMO.LabsWinCS.RegistrationForm\bin\Debug\ITMO.LabsWinCS.RegistrationForm.exe
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.RegistrationForm\ITMO.LabsWinCS.RegistrationForm\bin\Debug\ITMO.LabsWinCS.RegistrationForm.pdb
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.RegistrationForm\ITMO.LabsWinCS.RegistrationForm\obj\Debug\ITMO.LabsWinCS.RegistrationForm.Form1.resources
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.RegistrationForm\ITMO.LabsWinCS.RegistrationForm\obj\Debug\ITMO.LabsWinCS.RegistrationForm.Properties.Resources.resources
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.RegistrationForm\ITMO.LabsWinCS.RegistrationForm\obj\Debug\ITMO.LabsWinCS.RegistrationForm.csproj.GenerateResource.cache
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.RegistrationForm\ITMO.LabsWinCS.RegistrationForm\obj\Debug\ITMO.LabsWinCS.RegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.RegistrationForm\ITMO.LabsWinCS.RegistrationForm\obj\Debug\ITMO.LabsWinCS.RegistrationForm.exe
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.RegistrationForm\ITMO.LabsWinCS.RegistrationForm\obj\Debug\ITMO.LabsWinCS.RegistrationForm.pdb
+C:\Users\Евгений\source\repos\ITMO.LabsWinCS.RegistrationForm\ITMO.LabsWinCS.RegistrationForm\obj\Debug\ITMO.LabsWinCS.RegistrationForm.csprojAssemblyReference.cache
