@@ -1,0 +1,10 @@
+C:\Users\Евгений\source\repos\ITMO.LabsWindCS.Demo2\ITMO.LabsWindCS.Demo2\obj\Debug\ITMO.LabsWindCS.Demo2.Form1.resources
+C:\Users\Евгений\source\repos\ITMO.LabsWindCS.Demo2\ITMO.LabsWindCS.Demo2\obj\Debug\ITMO.LabsWindCS.Demo2.Properties.Resources.resources
+C:\Users\Евгений\source\repos\ITMO.LabsWindCS.Demo2\ITMO.LabsWindCS.Demo2\obj\Debug\ITMO.LabsWindCS.Demo2.csproj.GenerateResource.cache
+C:\Users\Евгений\source\repos\ITMO.LabsWindCS.Demo2\ITMO.LabsWindCS.Demo2\obj\Debug\ITMO.LabsWindCS.Demo2.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\ITMO.LabsWindCS.Demo2\ITMO.LabsWindCS.Demo2\bin\Debug\ITMO.LabsWindCS.Demo2.exe.config
+C:\Users\Евгений\source\repos\ITMO.LabsWindCS.Demo2\ITMO.LabsWindCS.Demo2\bin\Debug\ITMO.LabsWindCS.Demo2.exe
+C:\Users\Евгений\source\repos\ITMO.LabsWindCS.Demo2\ITMO.LabsWindCS.Demo2\bin\Debug\ITMO.LabsWindCS.Demo2.pdb
+C:\Users\Евгений\source\repos\ITMO.LabsWindCS.Demo2\ITMO.LabsWindCS.Demo2\obj\Debug\ITMO.LabsWindCS.Demo2.exe
+C:\Users\Евгений\source\repos\ITMO.LabsWindCS.Demo2\ITMO.LabsWindCS.Demo2\obj\Debug\ITMO.LabsWindCS.Demo2.pdb
+C:\Users\Евгений\source\repos\ITMO.LabsWindCS.Demo2\ITMO.LabsWindCS.Demo2\obj\Debug\ITMO.LabsWindCS.Demo2.nForm.resources
