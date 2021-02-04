@@ -1,0 +1,32 @@
+﻿<Window x:Class="ITMO.PracticeWpfCS.NCommand.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ITMO.PracticeWpfCS.NCommand"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Menu HorizontalAlignment="Left" Height="100" Margin="10,10,0,0" VerticalAlignment="Bottom" Width="785" VerticalContentAlignment="Bottom">
+            <MenuItem Header="Правка">
+                <MenuItem Header="Копировать" CommandTarget="{Binding ElementName=MainWindow}" Command="Copy"/>
+                <MenuItem Header="Вырезать" CommandTarget="{Binding ElementName=MainWindow}" Command="Cut"/>
+                <MenuItem Header="Вставить" CommandTarget="{Binding ElementName=MainWindow}" Command="Paste"/>
+            </MenuItem>
+            <MenuItem Header="MenuItems">
+                <MenuItem Header="Launch" Command="local:CustomCommands.Launch"/>
+            </MenuItem>
+        </Menu>
+        <RichTextBox x:Name="richTextBox" HorizontalAlignment="Left" Height="141" Margin="463,38,0,0" VerticalAlignment="Top" Width="249">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="RichTextBox"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <Button Command="local:CustomCommands.Launch" Content="Launch" HorizontalAlignment="Left" Margin="38,78,0,0" VerticalAlignment="Top" Width="75"/>
+        <CheckBox x:Name="checkBox" Content="EnableLaunchCommand" HorizontalAlignment="Left" Margin="38,141,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="38,10,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>
